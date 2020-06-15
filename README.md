@@ -11,6 +11,6 @@
 Переходим по данной ссылке, получаем данные в формате xml. Рассмотрим данный сервис. Он позволяет настраивать динамическую привязку внешнего порта ко внутреннему, чтобы обходить ограничения NAT
 
 Находим раздел с данным сервисом:
-![Пример конфига](https://github.com/hariton27sy/UPnP/images/WanIPConnection.png)
+![Пример конфига](https://raw.githubusercontent.com/hariton27sy/UPnP/master/images/WanIPConnection.png)
 
 Нас интересует тег __ControlURL__
